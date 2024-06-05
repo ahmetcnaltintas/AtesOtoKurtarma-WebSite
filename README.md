@@ -4,7 +4,7 @@
 ## Home
 ![Home](./img/home.png)
 
-## Abot
+## About
 ![About](./img/about.png)
 
 ## Gallery
